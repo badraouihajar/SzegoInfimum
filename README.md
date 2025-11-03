@@ -13,7 +13,8 @@
 
 ## 📂 Contenu
 
-- [Article PDF](./BADRAOUI%20Hajar%20-%20Infimum%20de%20szego.%20.pdf)
+- [Article PDF](./BADRAOUI%20Hajar%20-%20Infimum%20de%20szego..pdf)
+
 
 ---
 
